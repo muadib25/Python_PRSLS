@@ -1,7 +1,9 @@
 # Python_PRSLS
 
-A Paper-Roc-Scissors-Lizard-Spock Logic in python. The "Paper-Roc-Scissors-Lizard-Spock" game is an expanded-choice 
-version of the well-known "Paper-Rock-Scissors" party game created by Sam Kass and Karen Bryla and mentioned in the Big 
+A Paper-Roc-Scissors-Lizard-Spock Logic in python during a Coursera Interactive Python course via Rice University. 
+
+The "Paper-Roc-Scissors-Lizard-Spock" game is an expanded-choice version of the well-known "Paper-Rock-Scissors" party game 
+created by Sam Kass and Karen Bryla and mentioned in the Big 
 Bang Theory sitcom series.
 
 The program calculates five instances where the "Player" and "Computer" compete, giving also the correct results.
